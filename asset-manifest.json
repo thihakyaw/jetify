@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jetify/static/css/main.36f20732.css",
-    "main.js": "/jetify/static/js/main.4485d631.js",
+    "main.css": "/jetify/static/css/main.e74d386c.css",
+    "main.js": "/jetify/static/js/main.d154fee3.js",
     "index.html": "/jetify/index.html",
-    "main.36f20732.css.map": "/jetify/static/css/main.36f20732.css.map",
-    "main.4485d631.js.map": "/jetify/static/js/main.4485d631.js.map"
+    "main.e74d386c.css.map": "/jetify/static/css/main.e74d386c.css.map",
+    "main.d154fee3.js.map": "/jetify/static/js/main.d154fee3.js.map"
   },
   "entrypoints": [
-    "static/css/main.36f20732.css",
-    "static/js/main.4485d631.js"
+    "static/css/main.e74d386c.css",
+    "static/js/main.d154fee3.js"
   ]
 }
