@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Plane, Clock, Moon, Sun, Calendar, ArrowRight, MapPin, Download, CalendarDays } from 'lucide-react';
+import { Plane, Clock, Moon, Sun, Calendar, ArrowRight, MapPin, Download, CalendarDays, Info } from 'lucide-react';
 import { 
   calculateJetLag, 
   TIMEZONES, 
@@ -103,7 +103,11 @@ const JetLagCalculator: React.FC = () => {
                 Trip Details
               </h2>
 
-              <div className="space-y-6">
+              <small className="flex items-center text-muted-foreground text-sm">
+                <Info className="w-12 h-12 mr-3" />
+                    If you can't find the departure or arrival city, selecting the same timezone as your location will still work correctly.
+              </small>
+              <div className="space-y-6 mt-4">
                 {/* Departure Section */}
                 <div className="space-y-4">
                   <label className="block text-white font-semibold flex items-center">
