@@ -126,6 +126,27 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Project Orchestration**: [thihakyaw](https://github.com/thihakyaw)
 - **Research Foundation**: Based on circadian rhythm and jet lag research from travel medicine studies
 
+## 📬 Contact
+
+**Thiha Kyaw** - [GitHub Profile](https://github.com/thihakyaw)
+
+Project Link: [https://github.com/thihakyaw/jetify](https://github.com/thihakyaw/jetify)
+
+**Live Demo**: [https://thihakyaw.github.io/jetify](https://thihakyaw.github.io/jetify)
+
+## 🚀 Deployment
+
+This project is deployed on GitHub Pages. To deploy your own version:
+
+1. **Fork the repository** and clone it locally
+2. **Install dependencies**: `npm install`
+3. **Deploy to GitHub Pages**: `npm run deploy`
+
+The deployment process:
+- Builds the production version (`npm run build`)
+- Pushes the build to the `gh-pages` branch
+- GitHub Pages automatically serves from the `gh-pages` branch
+
 ---
 
 *Happy travels! ✈️ May your journeys be jet lag-free and your sleep schedules optimized.*
