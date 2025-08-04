@@ -122,15 +122,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Credits
 
-- **AI Development**: Powered by Claude Sonnet 3.5, showcasing advanced AI-assisted development
+- **AI Development**: Powered by Claude Sonnet 4, showcasing advanced AI-assisted development
 - **Project Orchestration**: [thihakyaw](https://github.com/thihakyaw)
 - **Research Foundation**: Based on circadian rhythm and jet lag research from travel medicine studies
-
-## 📬 Contact
-
-**Thiha Kyaw** - [GitHub Profile](https://github.com/thihakyaw)
-
-Project Link: [https://github.com/thihakyawjetify](https://github.com/thihakyaw/jetify)
 
 ---
 
